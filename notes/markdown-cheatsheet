@@ -1,0 +1,35 @@
+# ✍️ Markdown Cheatsheet for GitHub This is a quick reference guide for formatting text in GitHub `README.md` files and notes. 
+--- 
+## 🔠 Text Formatting 
+**Bold text** 
+*Italic text* 
+~~Strikethrough~~ 
+--- 
+## 📑 Headings 
+# H1 
+## H2 
+### H3 
+#### H4 
+--- 
+## 📋 Lists 
+**Unordered List:** 
+- Item 1 
+- Item 2 
+- Sub-item 
+**Ordered List:** 
+1. First item 
+2. Second item 
+--- 
+## 🔗 Links 
+[GitHub](https://github.com) 
+--- 
+## 🖼 Images 
+```markdown ![Alt Text](image-url.png)
+
+😊 **Emojis**
+Use emoji shortcodes like:
+:rocket: :bulb: :white_check_mark: :x:
+They become: 🚀 💡 ✅ ❌ 
+
+📌 Horizontal line
+Use three dashes 
